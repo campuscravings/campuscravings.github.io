@@ -106,21 +106,21 @@ Milestone 1 was managed using [Campus Cravings GitHub Project Board M1](https://
 
 ### Milestone 2: Data model development
 
-The goal of Milestone 2 was to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the Campus Cravings application.
+<! -- The goal of Milestone 2 was to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the Campus Cravings application.
 
 Milestone 2 was managed using [Campus Cravings GitHub Project Board M2](https://github.com/campuscravings/campus-cravings.github.io/projects/2):
 
-![](images/project-board-2.png)
+![](images/project-board-2.png) -->
 
 ### Milestone 3: Final touches
 
-The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
+<! -- The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
 
 Milestone 3 was managed using [Campus Cravings GitHub Project Board M3](https://github.com/campuscravings/campus-cravings.github.io/projects/3):
 
 ![](images/project-board-3.png)
 
-As of the time of writing, this screenshot shows that there is an ongoing task (i.e. this writing).
+As of the time of writing, this screenshot shows that there is an ongoing task (i.e. this writing). -->
 
 ## Example enhancements
 
