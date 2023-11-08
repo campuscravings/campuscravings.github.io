@@ -100,7 +100,7 @@ The following sections document the development history of Campus Cravings.
 
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
 
-Milestone 1 was managed using [Campus Cravings GitHub Project Board M1](https://github.com/campuscravings/campus-cravings.github.io/projects/1):
+Milestone 1 was managed using [Campus Cravings GitHub Project Board M1](https://github.com/orgs/campuscravings/projects/1):
 
 ![](images/project-board-1.png)
 
