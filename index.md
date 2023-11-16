@@ -28,15 +28,15 @@ Campus Cravings provides three separate home pages that present the contents of 
 
 The user home page allows regular users to view the various restaurants and menus and select their favorites.
 
-![](images/user-home.png)
+![](M1-user-home.png)
 
 The vendor home page allows the users affiliated to specific restaurants to add/edit menu items and adjust the prices. These users will still be able to utilize the same functions that the regular user has access to.
 
-![](images/vendor-home.png)
+![](M1-vendor-home.png)
 
 Finally, the admin home page allows the admin to add/edit restaurants and verify restaurant admin accounts. Admin users will be able to utilize all functions that Campus Cravings provides.
 
-![](images/admin-home.png)
+![](M1-admin-home.png)
 
 ### Sign in and sign up
 
@@ -52,7 +52,8 @@ Signing up as a new user requires them to first set up their profile with their 
 
 ### Profile Page
 ![](Profile_Page.png)
-Page displats profile information.  Will later have favorite resturaunt and Menu item features.
+Page displays profile information.  Will later have favorite resturaunt and Menu item features.
+
 ### User Profile
 ![](UserProfile_Page.png)
 
