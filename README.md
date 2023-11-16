@@ -1,2 +1,2 @@
-# campuscravings.github.io
+# Campus Cravings
 Project home page for Campus Cravings
