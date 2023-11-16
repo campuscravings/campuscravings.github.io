@@ -46,11 +46,11 @@ Finally, the admin home page allows the admin to add/edit restaurants and verify
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
 
-![](images/signin-page.png)
+![](loginPage.png)
 
 Alternatively, you can select "Sign up" to go to the following page and register as a new user:
 
-![](images/signup-page.png)
+![](register.png)
 
 Signing up as a new user requires them to first set up their profile with their preferences in food. Specifically, what types of food to include or exclude based on factors such as ethnicity of the food, or vegan friendly. 
 
@@ -67,13 +67,13 @@ After clicking on a profile icon/button, you will be taken to the user profile p
 
 Admin users can define new vendors with the Add Vendor page:
 
-![](images/add-restaurant-page.png)
+![](addVendors.png)
 
 ### List Restaurant page
 
 All users can view all of the restaurants in the system with the List Restaurant page:
 
-![](images/list-restaurant-page.png)
+![](listVendors.png)
 
 Restaurants are sorted by the type of food that they sell, and users can control the restaurants they see by editing their preferences. However, only admin users have access to the “edit” button, which allows them to edit the status of the restaurant.
 
