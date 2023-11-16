@@ -50,7 +50,11 @@ Alternatively, you can select "Sign up" to go to the following page and register
 
 Signing up as a new user requires them to first set up their profile with their preferences in food. Specifically, what types of food to include or exclude based on factors such as ethnicity of the food, or vegan friendly. 
 
+### Profile Page
+![](Profile_Page.png)
+Page displats profile information.  Will later have favorite resturaunt and Menu item features.
 ### User Profile
+![](UserProfile_Page.png)
 
 After clicking on a profile icon/button, you will be taken to the user profile page. This page is where users can change their preferences, or where vendors can change their choices for the day or otherwise modify their profile.
 
