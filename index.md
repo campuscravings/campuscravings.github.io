@@ -14,7 +14,7 @@
 Campus Cravings is a database of restaurants on and near the campus of UH Manoa which will include the names, location, menus, prices, hours of operation, and payment methods of each.  This database will significantly benefit UH Manoa students by providing a convenient and easily accessible resource for all things related to on-campus dining.  Including accounts for eatery owners will help maintain up-to-date and accurate restaurant information, enhancing the overall dining experience on campus.
 
 ## Deployment
-[Campus Cravings hosted on Digital Ocean](http://146.190.160.80/)
+[Campus Cravings hosted on Digital Ocean](https://campus-cravings.site/)
 
 ## User Guide
 
