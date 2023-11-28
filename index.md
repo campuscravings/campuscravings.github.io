@@ -85,8 +85,12 @@ Restaurants are sorted by the type of food that they sell, and users can control
 ### Add Menu Item page
 
 Vendors can define new menu items within their restaurant with the Add Menu Item page:
+![](AddMenuItem_Page.png)
 
-![](add-menu-item-page.png)
+### Menu Item page
+
+All users are able to view the Menus of different resturaunts:
+![](Menu_Page.png)
 
 ### Restaurant Location page
 
