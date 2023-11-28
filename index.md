@@ -5,6 +5,7 @@
 * [Overview](#overview)
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [Development History](#development-history)
 * [Example enhancements](#example-enhancements)
 * [Team](#team)
@@ -91,6 +92,30 @@ Vendors can define new menu items within their restaurant with the Add Menu Item
 The locations of various restaurants (including food trucks) will be shown on a UH campus map and marked by the restaurant's logo:
 
 ![](restauraunt-map-page.png)
+
+## Developer Guide
+
+This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
+
+### Installation
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, visit the [Campus Cravings application github page](https://github.com/campuscravings/campus-cravings), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
+
+Third, cd into the campus-cravings/app directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
 
 ## Development History
 
