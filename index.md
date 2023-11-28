@@ -26,7 +26,7 @@ This section provides a walkthrough of the Campus Cravings user interface and it
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-![](landing-page.png)
+![](M2-landing-page.png)
 
 ### Home Pages (User, Vendor, Admin)
 
@@ -174,7 +174,10 @@ Milestone 2 was managed using [Campus Cravings GitHub Project Board M2](https://
 ![](project-board-2.png)
 
 The screenshots below are from the M2 version of Campus Cravings:
+![](AddMenuItem_Page.png)
+![](Menu_Page.png)
 ![](M2-user-home.png)
+![](M2-landing-page.png)
 
 ### Milestone 3: Final touches
 
