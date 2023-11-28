@@ -70,13 +70,13 @@ After clicking on a profile icon/button, you will be taken to the user profile p
 
 Admin users can define new vendors with the Add Vendor page:
 
-![](M1-addVendors.png)
+![](M2addVendors-example.png)
 
 ### List Restaurant page
 
 All users can view all of the restaurants in the system with the List Restaurant page:
 
-![](M1-listVendors.png)
+![](M2addedVendor.png)
 
 Restaurants are sorted by the type of food that they sell, and users can control the restaurants they see by editing their preferences. However, only admin users have access to the “edit” button, which allows them to edit the status of the restaurant.
 
@@ -96,6 +96,7 @@ All users are able to view the Menus of different resturaunts:
 
 The locations of various restaurants (including food trucks) will be shown on a UH campus map and marked by the restaurant's logo:
 
+(In development)
 ![](restauraunt-map-page.png)
 
 ## Developer Guide
