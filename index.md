@@ -178,6 +178,8 @@ The screenshots below are from the M2 version of Campus Cravings:
 ![](Menu_Page.png)
 ![](M2-user-home.png)
 ![](M2-landing-page.png)
+![](M2addVendors-example.png)
+![](M2addedVendor.png)
 
 ### Milestone 3: Final touches
 
