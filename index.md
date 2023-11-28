@@ -6,6 +6,7 @@
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
+* [Continuous Integration](#continuous-integration)
 * [Development History](#development-history)
 * [Example enhancements](#example-enhancements)
 * [Team](#team)
@@ -116,6 +117,15 @@ $ meteor npm run start
 ```
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
+
+## Continuous Integration
+
+[![ci-campus-cravings](https://github.com/campuscravings/campus-cravings/actions/workflows/ci.yml/badge.svg)]
+
+Campus Cravings uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/campuscravings/campus-cravings/actions](https://github.com/campuscravings/campus-cravings/actions).
+
+The workflow definition file is quite simple and is located at
+[.github/workflows/ci.yml](https://github.com/campuscravings/campus-cravings/blob/main/.github/workflows/ci.yml).
 
 ## Development History
 
