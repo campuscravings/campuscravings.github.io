@@ -24,7 +24,7 @@ This section provides a walkthrough of the Campus Cravings user interface and it
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-![](images/landing-page.png)
+![](landing-page.png)
 
 ### Home Pages (User, Vendor, Admin)
 
@@ -32,7 +32,7 @@ Campus Cravings provides three separate home pages that present the contents of 
 
 The user home page allows regular users to view the various restaurants and menus and select their favorites.
 
-![](M1-user-home.png)
+![](M2-user-home.png)
 
 The vendor home page allows the users affiliated to specific restaurants to add/edit menu items and adjust the prices. These users will still be able to utilize the same functions that the regular user has access to.
 
@@ -46,20 +46,21 @@ Finally, the admin home page allows the admin to add/edit restaurants and verify
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
 
-![](loginPage.png)
+![](M1-loginPage.png)
 
 Alternatively, you can select "Sign up" to go to the following page and register as a new user:
 
-![](register.png)
+![](M1-register.png)
 
 Signing up as a new user requires them to first set up their profile with their preferences in food. Specifically, what types of food to include or exclude based on factors such as ethnicity of the food, or vegan friendly. 
 
 ### Profile Page
-![](Profile_Page.png)
+![](M1-Profile_Page.png)
+
 Page displays profile information.  Will later have favorite resturaunt and Menu item features.
 
 ### User Profile
-![](UserProfile_Page.png)
+![](M1-UserProfile_Page.png)
 
 After clicking on a profile icon/button, you will be taken to the user profile page. This page is where users can change their preferences, or where vendors can change their choices for the day or otherwise modify their profile.
 
@@ -67,29 +68,29 @@ After clicking on a profile icon/button, you will be taken to the user profile p
 
 Admin users can define new vendors with the Add Vendor page:
 
-![](addVendors.png)
+![](M1-addVendors.png)
 
 ### List Restaurant page
 
 All users can view all of the restaurants in the system with the List Restaurant page:
 
-![](listVendors.png)
+![](M1-listVendors.png)
 
 Restaurants are sorted by the type of food that they sell, and users can control the restaurants they see by editing their preferences. However, only admin users have access to the “edit” button, which allows them to edit the status of the restaurant.
 
-![](images/edit-restaurant-page.png)
+![](edit-restaurant-page.png)
 
 ### Add Menu Item page
 
 Vendors can define new menu items within their restaurant with the Add Menu Item page:
 
-![](images/add-menu-item-page.png)
+![](add-menu-item-page.png)
 
 ### Restaurant Location page
 
 The locations of various restaurants (including food trucks) will be shown on a UH campus map and marked by the restaurant's logo:
 
-![](images/restauraunt-map-page.png)
+![](restauraunt-map-page.png)
 
 ## Development History
 
@@ -113,6 +114,18 @@ Milestone 1 was managed using [Campus Cravings GitHub Project Board M1](https://
 
 ![](project-board-1.png)
 
+The screenshots below are from the M1 version of Campus Cravings:
+
+![](M1-user-home.png)
+![](M1-vendor-home.png)
+![](M1-admin-home.png)
+![](M1-loginPage.png)
+![](M1-register.png)
+![](M1-Profile_Page.png)
+![](M1-UserProfile_Page.png)
+![](M1-addVendors.png)
+![](M1-listVendors.png)
+
 ### Milestone 2: Data model development
 
 The goal of Milestone 2 was to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the Campus Cravings application.
@@ -121,15 +134,18 @@ Milestone 2 was managed using [Campus Cravings GitHub Project Board M2](https://
 
 ![](project-board-2.png)
 
+The screenshots below are from the M2 version of Campus Cravings:
+![](M2-user-home.png)
+
 ### Milestone 3: Final touches
 
-<!-- The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
+The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
 
-Milestone 3 was managed using [Campus Cravings GitHub Project Board M3](https://github.com/campuscravings/campus-cravings.github.io/projects/3):
+Milestone 3 was managed using [Campus Cravings GitHub Project Board M3](https://github.com/orgs/campuscravings/projects/12):
 
-![](images/project-board-3.png)
+![](project-board-3.png)
 
-As of the time of writing, this screenshot shows that there is an ongoing task (i.e. this writing). -->
+As of the time of writing, this screenshot shows that there is an ongoing task (i.e. this writing).
 
 ## Example enhancements
 
