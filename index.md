@@ -201,6 +201,11 @@ There are a number of simple enhancements you can make to the system to become b
 * recent restaurant or menu item changes automatically updated and displayed on home pages
 * MORE TO BE ADDED LATER
 
+## Community Feedback
+  * Business Major (Junior):
+
+     User explained that there weren't many different pages for the users which made it simple to navigate.  Liked how simple it was to browse each resturaunt and view their corilated menus.  Stated "Adding a seachbar for each resturaunt would be helpful".  Said that the style was too simple and that menu pages should include syling to indicate which resturaunt they are for.  For the vendor pages, said that the menu page was simple to understand and use.  Said said that a feature where vendors can add specials and other events
+
 ## Team
 
 Campus Cravings will be designed, implemented, and maintained by [Johnathan Callejo](https://github.com/johnnyC808), [Kyle Bueche](https://github.com/kylebueche), [Cody Kau](https://github.com/qckapiu), and [Travis Quesenberry](https://github.com/TravisQuesenberry).
