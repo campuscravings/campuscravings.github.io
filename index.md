@@ -198,6 +198,14 @@ There are a number of simple enhancements you can make to the system to become b
 
      User explained that there weren't many different pages for the users which made it simple to navigate.  Liked how simple it was to browse each resturaunt and view their corilated menus.  Stated "Adding a seachbar for each resturaunt would be helpful".  Said that the style was too simple and that menu pages should include syling to indicate which resturaunt they are for.  For the vendor pages, said that the menu page was simple to understand and use.  Said said that a feature where vendors can add specials and other events
 
+  * Computer Science Major (Sophomore):
+
+     User explained that the signup page was stranged, but he really liked the UI, and thought it was clean and pleasant. Mentioned that the pictures could be higher resolution, which could be good criteria to provide for actual vendors who want to manage their profiles. Also dislikes that clicking the Campus Cravings heading leads to the vendor login page rather than back to the original landing page.
+
+  * Biology Major (Sophomore):
+
+     User said that the website was really cool, and she likes it.
+
 ## Team
 
 Campus Cravings will be designed, implemented, and maintained by [Johnathan Callejo](https://github.com/johnnyC808), [Kyle Bueche](https://github.com/kylebueche), [Cody Kau](https://github.com/qckapiu), and [Travis Quesenberry](https://github.com/TravisQuesenberry).
