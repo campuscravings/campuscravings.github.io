@@ -85,13 +85,16 @@ Restaurants are sorted by the type of food that they sell, and users can control
 
 ### Add Menu Item page
 
-Vendors can define new menu items within their restaurant with the Add Menu Item page:
-![](AddMenuItem_Page.png)
+Vendors can define new menu items within their restaurant with the Add Menu Item page.  Vendor field is now automatically set to the vendor's account username:
+![](M3_AddMenuItem.png)
 
 ### Menu Item page
 
 All users are able to view the Menus of different resturaunts:
 ![](Menu_Page.png)
+
+Vendors are now able to remove menu items from their own Menu page:
+![](M3_MenuPage_Vendor.png)
 
 ### Restaurant Location page
 
