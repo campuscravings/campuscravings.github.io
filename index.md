@@ -96,13 +96,6 @@ All users are able to view the Menus of different resturaunts:
 Vendors are now able to remove menu items from their own Menu page:
 ![](M3_MenuPage_Vendor.png)
 
-### Restaurant Location page
-
-The locations of various restaurants (including food trucks) will be shown on a UH campus map and marked by the restaurant's logo:
-
-(In development)
-![](restauraunt-map-page.png)
-
 ## Developer Guide
 
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
@@ -197,7 +190,8 @@ There are a number of simple enhancements you can make to the system to become b
 * provide search functionality for specific menu items and let you compare prices
 * create mobile app version
 * recent restaurant or menu item changes automatically updated and displayed on home pages
-* MORE TO BE ADDED LATER
+* allow users to add tags and favorite vendors and menu items which will be displayed on their home page
+* create an interactive map that displays the locations of the various vendors on campus
 
 ## Community Feedback
   * Business Major (Junior):
