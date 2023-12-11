@@ -214,6 +214,15 @@ There are a number of simple enhancements you can make to the system to become b
 
      User said that the website was really cool, and she likes it.
 
+  * Business Major (Sophomore):
+
+     User liked the simplistic design and theming. Expressed that it would be nicer if there was a backround image, but that it kind of worked as is. Profile creation was weird.
+
+  * Music Education Major (Sophomore):
+
+     User says that they like the page. Something that could be worked on is the list vendors, as it feels empty of some things like pictures. It would be nice if there was a way to sort vendors, or show some sort of other special information that you might not find by just searching "food near me" on google.
+
+
 ## Team
 
 Campus Cravings will be designed, implemented, and maintained by [Johnathan Callejo](https://github.com/johnnyC808), [Kyle Bueche](https://github.com/kylebueche), [Cody Kau](https://github.com/qckapiu), and [Travis Quesenberry](https://github.com/TravisQuesenberry).
