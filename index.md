@@ -8,7 +8,8 @@
 * [Developer Guide](#developer-guide)
 * [Continuous Integration](#continuous-integration)
 * [Development History](#development-history)
-* [Example enhancements](#example-enhancements)
+* [Example Enhancements](#example-enhancements)
+* [Community Feedback](#community-feedback)
 * [Team](#team)
 
 ## Overview
@@ -152,8 +153,6 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 
 Milestone 1 was managed using [Campus Cravings GitHub Project Board M1](https://github.com/orgs/campuscravings/projects/1):
 
-![](project-board-1.png)
-
 The screenshots below are from the M1 version of Campus Cravings:
 
 ![](M1-user-home.png)
@@ -172,8 +171,6 @@ The goal of Milestone 2 was to implement the data model: the underlying set of M
 
 Milestone 2 was managed using [Campus Cravings GitHub Project Board M2](https://github.com/orgs/campuscravings/projects/11):
 
-![](project-board-2.png)
-
 The screenshots below are from the M2 version of Campus Cravings:
 ![](AddMenuItem_Page.png)
 ![](Menu_Page.png)
@@ -187,8 +184,6 @@ The screenshots below are from the M2 version of Campus Cravings:
 The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
 
 Milestone 3 was managed using [Campus Cravings GitHub Project Board M3](https://github.com/orgs/campuscravings/projects/12):
-
-![](project-board-3.png)
 
 As of the time of writing, this screenshot shows that there is an ongoing task (i.e. this writing).
 
