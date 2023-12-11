@@ -222,9 +222,18 @@ There are a number of simple enhancements you can make to the system to become b
 
      User mentioned that it would be helpful if the form refreshed when you added a new menu item. They liked the overall design and the cohesiveness between the various pages. Said that the landing page could use a bit more information. Also mentioned that it would be better if the menu items only displayed the vendor's menu items rather than the full list on a specific vendor.
 
+  * Business Major (Sophomore):
+
+     User liked the simplistic design and theming. Expressed that it would be nicer if there was a backround image, but that it kind of worked as is. Profile creation was weird.
+
+  * Music Education Major (Sophomore):
+
+     User says that they like the page. Something that could be worked on is the list vendors, as it feels empty of some things like pictures. It would be nice if there was a way to sort vendors, or show some sort of other special information that you might not find by just searching "food near me" on google.
+
+
 ## Team
 
 Campus Cravings will be designed, implemented, and maintained by [Johnathan Callejo](https://github.com/johnnyC808), [Kyle Bueche](https://github.com/kylebueche), [Cody Kau](https://github.com/qckapiu), and [Travis Quesenberry](https://github.com/TravisQuesenberry).
 
-[GitHub Organization](https://github.com/campuscravings)
+[GitHub Organization](https://github.com/campuscravings) ||
 [Team Contract](https://docs.google.com/document/d/1ysidk97ZZfze5XyUyViEq0-vuA007ZVoCBbuy5-fYkg/edit?usp=sharing)
