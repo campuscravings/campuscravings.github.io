@@ -27,7 +27,7 @@ This section provides a walkthrough of the Campus Cravings user interface and it
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-![](M2-landing-page.png)
+![](M3-landing-page.png)
 
 ### Home Pages (User, Vendor, Admin)
 
@@ -35,30 +35,30 @@ Campus Cravings provides three separate home pages that present the contents of 
 
 The user home page allows regular users to view the various restaurants and menus and select their favorites.
 
-![](M2-user-home.png)
+![](M3-user-home.png)
 
 The vendor home page allows the users affiliated to specific restaurants to add/edit menu items and adjust the prices. These users will still be able to utilize the same functions that the regular user has access to.
 
-![](M1-vendor-home.png)
+![](M3-vendor-home.png)
 
 Finally, the admin home page allows the admin to add/edit restaurants and verify restaurant admin accounts. Admin users will be able to utilize all functions that Campus Cravings provides.
 
-![](M1-admin-home.png)
+![](M3-admin-home.png)
 
 ### Sign in and sign up
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
 
-![](M1-loginPage.png)
+![](M3-signIn.png)
 
 Alternatively, you can select "Sign up" to go to the following page and register as a new user:
 
-![](M1-register.png)
+![](M3-signUp.png)
 
 Signing up as a new user requires them to first set up their profile with their preferences in food. Specifically, what types of food to include or exclude based on factors such as ethnicity of the food, or vegan friendly. 
 
 ### Profile Page
-![](M1-Profile_Page.png)
+![](M3-addProfile.png)
 
 Page displays profile information.  Will later have favorite resturaunt and Menu item features.
 
@@ -71,17 +71,13 @@ After clicking on a profile icon/button, you will be taken to the user profile p
 
 Admin users can define new vendors with the Add Vendor page:
 
-![](M2addVendors-example.png)
+![](M3-addVendor.png)
 
 ### List Restaurant page
 
 All users can view all of the restaurants in the system with the List Restaurant page:
 
-![](M2addedVendor.png)
-
-Restaurants are sorted by the type of food that they sell, and users can control the restaurants they see by editing their preferences. However, only admin users have access to the “edit” button, which allows them to edit the status of the restaurant.
-
-![](edit-restaurant-page.png)
+![](M3-listVendors.png)
 
 ### Add Menu Item page
 
@@ -181,7 +177,19 @@ The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
 
 Milestone 3 was managed using [Campus Cravings GitHub Project Board M3](https://github.com/orgs/campuscravings/projects/12):
 
-As of the time of writing, this screenshot shows that there is an ongoing task (i.e. this writing).
+The screenshots below are from the M3 version of Campus Cravings:
+![](M3-addProfile.png)
+![](M3-addVendor.png)
+![](M3-admin-home.png)
+![](M3-adminListVendor.png)
+![](M3-landing-page.png)
+![](M3-listVendors.png)
+![](M3-signIn.png)
+![](M3-signUp.png)
+![](M3-user-home.png)
+![](M3-vendor-home.png)
+![](M3_MenuPage_Vendor.png)
+![](M3_AddMenuItem.png)
 
 ## Example enhancements
 
