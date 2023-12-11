@@ -204,7 +204,7 @@ There are a number of simple enhancements you can make to the system to become b
 ## Community Feedback
   * Business Major (Junior):
 
-     User explained that there weren't many different pages for the users which made it simple to navigate.  Liked how simple it was to browse each resturaunt and view their corilated menus.  Stated "Adding a seachbar for each resturaunt would be helpful".  Said that the style was too simple and that menu pages should include syling to indicate which resturaunt they are for.  For the vendor pages, said that the menu page was simple to understand and use.  Said said that a feature where vendors can add specials and other events
+     User explained that there weren't many different pages for the users which made it simple to navigate.  Liked how simple it was to browse each resturaunt and view their corilated menus.  Stated "Adding a seachbar for each resturaunt would be helpful".  Said that the style was too simple and that menu pages should include syling to indicate which resturaunt they are for.  For the vendor pages, said that the menu page was simple to understand and use.  Said that a feature where vendors can add specials and other events
 
   * Computer Science Major (Sophomore):
 
@@ -213,6 +213,14 @@ There are a number of simple enhancements you can make to the system to become b
   * Biology Major (Sophomore):
 
      User said that the website was really cool, and she likes it.
+
+  * Computer Science Major (Sophomore):
+
+     User said that they liked the overall interface, but that the links at the top should be a different color. They mentioned that the list was structured well but we should add a way to sort them.
+
+  * Computer Science Major (Senior):
+
+     User mentioned that it would be helpful if the form refreshed when you added a new menu item. They liked the overall design and the cohesiveness between the various pages. Said that the landing page could use a bit more information. Also mentioned that it would be better if the menu items only displayed the vendor's menu items rather than the full list on a specific vendor.
 
   * Business Major (Sophomore):
 
@@ -227,5 +235,5 @@ There are a number of simple enhancements you can make to the system to become b
 
 Campus Cravings will be designed, implemented, and maintained by [Johnathan Callejo](https://github.com/johnnyC808), [Kyle Bueche](https://github.com/kylebueche), [Cody Kau](https://github.com/qckapiu), and [Travis Quesenberry](https://github.com/TravisQuesenberry).
 
-[GitHub Organization](https://github.com/campuscravings)
+[GitHub Organization](https://github.com/campuscravings) ||
 [Team Contract](https://docs.google.com/document/d/1ysidk97ZZfze5XyUyViEq0-vuA007ZVoCBbuy5-fYkg/edit?usp=sharing)
